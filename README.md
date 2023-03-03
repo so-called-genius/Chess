@@ -1,4 +1,5 @@
-#Chess
+# Chess
+
 Port the terminal-based Chess program to Android: a chess app that lets two people play chess with each other
 on the phone. You need to carry over all the functionality from the Chess project, and implement some other
 new functionality.
